@@ -1,4 +1,4 @@
-# Project Name
+# Project 
 
 Sunon-Scan is designed to streamline and simplify the process of downloading content from [Suno](https://www.suno.ai/). 
 
