@@ -1,14 +1,41 @@
-# 项目名称
+# Project Name
 
-这里写项目的各类介绍信息，例如：
+Sunon-Scan is designed to streamline and simplify the process of downloading content from [Suno](https://www.suno.ai/). 
 
-- 项目背景、动机等简介内容
-- 项目内容目录
-- ....
+## Live demo
+
+Check the live demo here 👉️ [https://light-city.github.io/suno_scan/](https://light-city.github.io/suno_scan/)
+
+### Usage
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+### Getting Started
+
+First, run the development server:
+
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+### Deploy your own
+
+
+Deploy the example using [Vercel](https://vercel.com/?utm_source=github&utm_medium=readme&utm_campaign=next-example):
+
+[![Deploy with Vercel](https://camo.githubusercontent.com/0d115430c1db17132964386282927e5e313543c7d868fc06bc9a7c65d7ec974e/68747470733a2f2f76657263656c2e636f6d2f627574746f6e)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/nextjs-portfolio-starter&project-name=portfolio&repository-name=portfolio)
+
 
 ## Roadmap
 
-*注：说明当前项目的规划，并将每个任务通过 Issue 形式进行对外进行发布。*
+- 框架编写
+- 核心逻辑实现
 
 ## 参与贡献
 
@@ -22,11 +49,7 @@
 
 | 姓名 | 职责 | 简介 |
 | :----| :---- | :---- |
-| 小明 | 项目负责人 | 小明 |
-| 小红 | 第1章贡献者 | 小明的朋友 |
-| 小强 | 第2章贡献者 | 小明的朋友 |
-
-*注：表头可自定义，但必须在名单中标明项目负责人*
+| 光城 | 项目负责人 | Datawhale成员 |
 
 ## 关注我们
 
